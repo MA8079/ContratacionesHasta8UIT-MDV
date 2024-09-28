@@ -5,10 +5,11 @@
   "main": "index.js",
   
   "scripts": {
-    "dev": "nodemon ./src/index.js"
+    "dev": "nodemon ./src/index.js",
+    "start": "./src/index.js"
   },
   "keywords": [],
-  "author": "Yordii",
+  "author": "MIGUEL",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
